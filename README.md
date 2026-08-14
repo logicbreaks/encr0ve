@@ -33,7 +33,7 @@ Bob pastes blob into encr0ve ──► decrypts ──► "see you at 8"
 - **Keychain storage + recovery code** — careless-user-proof by design
 - **Fully open source** — trust through transparency; anyone can build and audit it
 
-More graphs and visualizations: ([Visualizations](01-threat-model))
+More graphs and visualizations (Threat Model): ([Visualizations](01-threat-model/diagrams.md))
 
 ## What it does NOT do (honest boundaries)
 
